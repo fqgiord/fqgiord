@@ -2,10 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009933&size=20&center=true&vCenter=true&width=1000&lines=%F0%9F%A4%96+Hi!+I%27m+Fernando+Giordano;I%27m+from+%F0%9F%92%9ABrazil%F0%9F%92%9B+;%E2%9C%85+I%27m+based+in+Porto,Portugal(2023);+%F0%9F%92%BBI%27m+Studying+FullStack+Web+Development;+Let%27s+share+eXperience?;)](https://git.io/typing-svg)
 
-- 🧬 I believe we can transform de world by using technology and because of that I decided to change carrer to discover all possibilities!!
-- Who I am: Who loves radical sports, nature, pets and photograpy!
-- About tech: Frontend makes me feel more confortable, but, as I like to undestand how everything works, I'm also learning the backend side.
-
+- 🧬 *We can TRANSFORM the world by using technology.*
+-  📌 *ToDo Learning: Developing sustainable environments, Influence of Human Behavior, health implications due to technology use.*
+- 💻 *Frontend makes me feel more confortable, but I'm insteresting about backend side and how everything works.*
+  
+#
 ### Languages and Tools:
 <div style="display: inline_block">
   <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
