@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009933&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009933&size=20&center=true&vCenter=true&width=1000&lines=%F0%9F%A4%96+Hi!+I%27m+Fernando+Giordano;I%27m+from+%F0%9F%92%9ABrazil%F0%9F%92%9B+;%E2%9C%85+I%27m+based+in+Porto,Portugal(Since,2023);+%F0%9F%92%BBI%27m+Studying+FullStack+Web+Development;+Let%27s+share+eXperience?;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009933&size=20&center=true&vCenter=true&width=1000&lines=%F0%9F%A4%96+Hi!+I%27m+Fernando+Giordano;I%27m+from+%F0%9F%92%9ABrazil%F0%9F%92%9B+;%E2%9C%85+I%27m+based+in+Porto,Portugal(Since+2023);+%F0%9F%92%BBI%27m+Studying+FullStack+Web+Development;+Let%27s+share+eXperience?;)](https://git.io/typing-svg)
 
 - 🧬 *We can TRANSFORM the world by using technology.*
 -  📌 *ToDo Learning: Developing sustainable environments, Influence of Human Behavior, health implications due to technology use.*
