@@ -6,7 +6,7 @@
 
 ## 📊 About Me
 
-**Data Analyst** with **14+ years of operational excellence** in the petrochemical industry, now transitioning technical expertise into data-driven insights. I specialize in transforming complex industrial and business data into strategic recommendations.
+**Data Analyst** with **14+ years of operational excellence** in the petrochemical industry, now transitioning technical expertise into data-driven insights. I'm specialized in transforming complex industrial and business data into strategic recommendations.
 
 🎯 **What I bring:**  
 Unique combination of **industrial operations knowledge** + **modern data analytics skills**. I understand how to extract insights from operational data and translate them into actionable business strategies.
