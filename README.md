@@ -1,35 +1,96 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009933&height=100&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=009933&size=20&center=true&vCenter=true&width=1000&lines=%F0%9F%A4%96+Hi!+I%27m+Fernando+Giordano;I%27m+from+%F0%9F%92%9ABrazil%F0%9F%92%9B+;%E2%9C%85+I%27m+based+in+Porto,Portugal(Since+2023);+%F0%9F%92%BBI%27m+Studying+FullStack+Web+Development;+Let%27s+share+eXperience?;)](https://git.io/typing-svg)
-
-- 🧬 *We can TRANSFORM the world by using technology.*
--  📌 *ToDo Learning: Developing sustainable environments, Influence of Human Behavior, health implications due to technology use.*
-- 💻 *Frontend makes me feel more confortable, but I'm insteresting about backend side and how everything works.*
-  
-#
-### Languages and Tools:
-<div style="display: inline_block">
-  <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fer-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Fer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fer-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fer-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Fer-mySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Fer-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Fer-jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
- <img align="center" alt="Fer-intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E9F6E&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Fernando+Giordano;Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI;Transforming+Industrial+Data+into+Business+Insights" alt="Typing SVG" />
 </div>
 
-##
+---
 
-### Get in touch📌 
+## 📊 About Me
 
-<div align="left"> 
-<a href="https://www.linkedin.com/in/fernando-g-86148153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<a href = "mailto:fqgiord@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/fqgiordano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+**Data Analyst** with **14+ years of operational excellence** in the petrochemical industry, now transitioning technical expertise into data-driven insights. I specialize in transforming complex industrial and business data into strategic recommendations.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=009933&height=100&section=footer"/>
+🎯 **What I bring:**  
+Unique combination of **industrial operations knowledge** + **modern data analytics skills**. I understand how to extract insights from operational data and translate them into actionable business strategies.
+
+📍 **Based in:** Porto, Portugal | Open to remote opportunities across Europe
+
+🔗 **Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-g-tech)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fqgiordano@gmail.com)
+
+---
+
+## 🛠️ Technical Skills
+
+### Data Analysis & Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+## 📁 Featured Projects
+
+### 💹 [Finance Analyzer](https://github.com/fqgiord/finance_analyzer)
+**Stock market data analysis using Python, Pandas, and Streamlit**
+- Real-time stock data visualization
+- Technical indicators and trend analysis
+- Interactive dashboard with Streamlit
+
+**Tech Stack:** `Python` `Pandas` `yfinance` `Streamlit` `Matplotlib`
+
+---
+
+### 📈 [Interactive Dashboard](https://github.com/fqgiord/dashboard_streamlit)
+**Data visualization dashboard built with Streamlit**
+- Dynamic data filtering and exploration
+- Real-time data processing
+- Clean and intuitive UI
+
+**Tech Stack:** `Python` `Streamlit` `Pandas` `Plotly`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fqgiord&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fqgiord&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+---
+
+## 💼 Professional Experience Highlights
+
+**14 years at ExxonMobil** in operations and technical leadership:
+
+✅ **Data-Driven Operations:** Analyzed operational data for safety/efficiency programs  
+✅ **Stakeholder Management:** Cross-functional collaboration with technical teams  
+✅ **Process Optimization:** Used P&ID documentation and data for decision-making  
+✅ **Risk Assessment:** Data analysis for safety compliance and risk mitigation  
+
+---
+
+## 🎯 Currently Working On
+
+🔹 Building portfolio of Data Analytics projects  
+🔹 Completing Data Science certifications (Alura Platform)  
+🔹 Contributing to open-source data analysis tools  
+🔹 Learning advanced SQL and statistical analysis  
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fqgiord&color=0e75b6&style=flat" alt="Profile views" />
+  
+  ### 🚀 "Transforming data into decisions, one insight at a time"
+</div>
