@@ -15,7 +15,7 @@ Unique combination of **industrial operations knowledge** + **modern data analyt
 
 🔗 **Connect:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-g-tech)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fqgiordano@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fqgiord@gmail.com)
 
 ---
 
